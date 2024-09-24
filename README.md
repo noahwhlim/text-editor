@@ -16,7 +16,8 @@ I intend to further develop this project by integrating React and additional fea
 ## Getting Started
 1. Clone the repository.
 2. Run `npm install` to install the necessary dependencies.
-3. Run `npm start` to launch the application.
+3. Run `npm run start` to launch the application.
+4. Run `npm build` to build the application.
 
 ## Technologies Used
 - ElectronJS
