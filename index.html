@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="Content-Security-Policy" content="script-src 'self';" />
+    <link rel="stylesheet" href="./styles.css" />
+    <link
+      rel="stylesheet"
+      href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@24,400,0,0"
+    />
+    <title>mono</title>
+  </head>
+  
+  <body>
+    <div class="title-bar">
+      <span class="document-name" id="documentName">no file selected</span>
+      <div class="menu-section">
+        <button id="saveDocumentBtn">
+          <span class="material-symbols-outlined"> save </span>
+        </button>
+        <button id="openDocumentBtn">
+            <span class="material-symbols-outlined">
+                folder_open
+                </span>
+        </button>
+        <button id="createDocumentBtn">
+          <span class="material-symbols-outlined"> add </span>
+        </button>
+      </div>
+    </div>
+    <main>
+      <textarea name="" id="fileTextArea" disabled placeholder="start typing to dismiss"></textarea>
+    </main>
+  </body>
+</html>
