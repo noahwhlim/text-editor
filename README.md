@@ -3,7 +3,7 @@
 This project is a lightweight text editor built using ElectronJS. It is based on a [Youtube tutorial](https://www.youtube.com/watch?v=lEfbHcqbzMg) I followed to learn ElectronJS, and I plan to expand on it by adding more functionality with React and other concepts I learned from this project.
 
 ## Find the Application
-The latest version of this application can be found at [github.com/noahwhlim/mono](https://github.com/noahwhlim/text-editor).
+The latest version of this application can be found at [github.com/noahwhlim/text-editor](https://github.com/noahwhlim/text-editor).
 
 ## Features
 - Basic text editing functionality
